@@ -9,5 +9,5 @@ System Specs:
 - 32GB (2x16GB) 3400mt/s DDR4
 - AMD RX 5500 4GB (OEM, but my pc is custom built)
 - 1tb pcie gen4 Crucial P3 NVME as boot drive
-- 1tb Crucial MX500 as secondary drive
-- 500GB WD Blue as third drive
+- 1tb Crucial MX500 sata SSD as secondary drive
+- 500GB WD Blue HDD as third drive
