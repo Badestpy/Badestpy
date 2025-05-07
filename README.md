@@ -1,6 +1,6 @@
 - Hi, I’m @Badestpy
 - I’m interested in computer hardware and networking, but occasionally dabble in python
-- I’m currently learning how to better use Linux, trying to escape windows without loseing software I need
+- I’m currently practicing python in my free time with some projects, some may or may not be on github
 - How to reach me : retardedkoala854@gmail.com
 
 System Specs:
